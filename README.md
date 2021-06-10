@@ -1,5 +1,7 @@
 # Pymaceuticals
 
+A project using matplotlib to visualize data of mice and their response to tumor treatment.
+
 ## Background
 
 What good is data without a good plot to tell the story?
